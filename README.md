@@ -1,3 +1,12 @@
+----
+
+**NOTE**
+
+Project moved to source hut:
+https://git.sr.ht/~code0x378/inspired-github-konsole-colorscheme
+
+----
+
 # Inspired GitHub Color Scheme for Konsole
 
 A basic color scheme inspired by other inspirables...  
